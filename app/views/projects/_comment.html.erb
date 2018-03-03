@@ -1,0 +1,15 @@
+<div>
+	<p>
+		<span style="font-size: small; color: gray"> 
+			<%= time_ago_in_words comment.created_at %> ago 
+			<span id="upvote-comment-id-<%= comment.id %>">
+				upvotes : <span id="upvote-comment-id-<%= comment.id %>-count"><%= comment.upvotes.count %></span>
+			</span> 
+		</span> 
+		<br>
+		<%= comment.statement %>			
+	</p>
+
+	<!-- upvote button -->
+	<button type="button" class="btn btn-primary" id="upvote_button"  onclick="upVote(<%= comment.id %>)">Up Vote</button>	
+</div>

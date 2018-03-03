@@ -1,0 +1,169 @@
+<div class="container" style="margin-top: 60px; margin-left: 15px; ">
+	<h2><%= @project.name %></h2>
+	<table class="table ">
+		<tr>
+			<td>Version</td>
+			<td><%= @last_commit.revision if @last_commit%></td>
+		</tr>
+		<tr>
+			<td>Summary</td>
+			<td><%= @last_commit.message if @last_commit %></td>
+		</tr>
+	</table>
+	<br>
+	<h3>Project Files</h3>
+	<table class="table table-stripped">
+		<thead>
+			<th>Name</th>
+			<th>Size</th>
+			<th>Path</th>
+			<th>Type</th>
+		</thead>
+		<tbody>
+			<% @project_files.try(:each) do |file| %>
+				<tr>
+					<td> <%= file.name %> </td>
+					<td> <%= file.size %> </td>
+					<td> <%= file.path %> </td>
+					<td> <%= file.file_type %> </td>
+				</tr>
+			<% end %>
+		</tbody>
+	</table>
+
+	<h3>Comments: </h3>
+
+	<hr>
+		<select class="form-control" id="sortby-select" onchange="getSorted()">
+			<option value="upvotes">upvotes</option>
+			<option value="subcomments">subcomments</option>
+		<select>
+	<hr>
+
+	<img id="spinner" src="/4.gif" className="img img-responsive" style="margin:auto;position:fixed;z-index: 999;overflow:hidden;margin: auto;top: 0;left: 0;bottom: 0;right: 0"/>
+	
+	<div id="comments-div">
+		<%= render "comments",comments: @comments %>	
+	</div>
+
+	<hr>
+	
+	<br><br><br>
+</div>
+
+<script>
+
+	$(document).ready(function(){
+		$("#spinner").hide();
+	})
+
+	var getSorted = function(){
+		$("#spinner").show();
+		$.ajax({
+			url: Routes.project_comments_sorted_path('<%= @project.id %>')+"?by="+$("#sortby-select").val(),
+			method: "get",
+			success: function(data){
+				console.log(data)
+				$("#spinner").hide();
+				$("#comments-div").html(data.html)
+			},
+			failure: function(){
+				$("#spinner").hide();
+				alert("error loading the sorted comments")
+			}
+		})
+	}
+
+	var createSubComment = function(comment_id){
+		$("#spinner").show();
+		console.log($("#sub-comment-"+comment_id).val());
+		var comment = $("#sub-comment-"+comment_id).val();
+		var project_id = '<%= @project.id %>';
+		
+
+		if(comment != ""){
+			$.ajax({
+				url: Routes.comment_subcomments_path(comment_id),
+				method: "post",
+				data: {
+					comment: {
+						statement: comment,
+						project_id: project_id
+					},
+					
+				},
+				success: function(data){
+					console.log(data);
+					$("#comments-div").html(data.html);
+					getSorted();
+					$("#spinner").hide();
+				},
+				failure: function(){
+					alert("message sending failed")
+					$("#spinner").hide();
+				}
+			})
+		}else{
+			$("#spinner").hide();
+			alert("cannot post empty comment")
+		}
+	}
+
+	var createNewComment = function(e){
+		$("#spinner").show();
+		var comment = $("#comment").val();
+		var project_id = '<%= @project.id %>';
+		if(comment != ""){
+			$.ajax({
+				url: Routes.comments_path(),
+				method: "post",
+				data: {
+					comment: {
+						statement: comment,
+						project_id: project_id
+					},
+					
+				},
+				success: function(data){
+					$("#comments-div").html(data.html);	
+					getSorted();
+					$("#spinner").hide();				
+				},
+				failure: function(){
+					alert("message sending failed")
+					$("#spinner").hide();
+				}
+			})
+		}else{
+			alert("cannot post empty comment")
+			$("#spinner").hide()
+		}
+	}
+
+
+	var updateUpvotes = function(comment_id){
+		var html = $("#upvote-comment-id-"+comment_id+"-count").html();
+		 $("#upvote-comment-id-"+comment_id+"-count").html(parseInt(html)+1);
+	}
+
+	var upVote = function(comment_id){
+		$("#spinner").show();
+		$.ajax({
+			url: Routes.comment_up_votes_path(comment_id),
+			method: "post",
+			success: function(){
+				console.log("success");
+				updateUpvotes(comment_id);
+				getSorted();
+				$("#spinner").hide();
+			},
+			failure: function(){
+				console.log("failure");
+				$("#spinner").hide();
+			}
+		})
+		
+	}
+
+</script>
+

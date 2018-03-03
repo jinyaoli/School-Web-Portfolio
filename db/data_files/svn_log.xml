@@ -1,0 +1,744 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<log>
+<logentry
+   revision="6550">
+<author>hli61</author>
+<date>2017-03-07T14:57:02.732536Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/hli61/Assignment2.1/.project</path>
+<path
+   action="A"
+   kind="file">/hli61/Assignment2.1/.pydevproject</path>
+<path
+   action="A"
+   kind="dir">/hli61/Assignment2.1/webscraper</path>
+<path
+   action="A"
+   kind="file">/hli61/Assignment2.1/webscraper/__init__.py</path>
+<path
+   action="A"
+   kind="file">/hli61/Assignment2.1/webscraper/data.txt</path>
+<path
+   action="A"
+   kind="file">/hli61/Assignment2.1/webscraper/data].txt</path>
+<path
+   action="A"
+   kind="file">/hli61/Assignment2.1/webscraper/example.log</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="6548">
+<author>hli61</author>
+<date>2017-03-07T14:52:27.919961Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/hli61/Assignment2.0/.project</path>
+<path
+   kind="file"
+   action="A">/hli61/Assignment2.0/webscraper/data].txt</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="5933">
+<author>hli61</author>
+<date>2017-02-28T13:05:17.459916Z</date>
+<paths>
+<path
+   action="M"
+   kind="file">/hli61/Assignment2.0/.pydevproject</path>
+<path
+   action="A"
+   kind="dir">/hli61/Assignment2.0/webscraper</path>
+<path
+   action="A"
+   kind="file">/hli61/Assignment2.0/webscraper/__init__.py</path>
+<path
+   action="A"
+   kind="file">/hli61/Assignment2.0/webscraper/data.txt</path>
+<path
+   action="A"
+   kind="file">/hli61/Assignment2.0/webscraper/example.log</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="5886">
+<author>hli61</author>
+<date>2017-02-28T03:34:32.874819Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/hli61/Assignment2.0/.project</path>
+<path
+   action="A"
+   kind="file">/hli61/Assignment2.0/.pydevprafasfasfasfasoject</path>
+</paths>
+<msg>adding folder</msg>
+</logentry>
+<logentry
+   revision="5885">
+<author>hli61</author>
+<date>2017-02-28T03:33:55.171505Z</date>
+<paths>
+<path
+   kind="dir"
+   action="A">/hli61/Assignment2.0</path>
+</paths>
+<msg>Initial import.</msg>
+</logentry>
+<logentry
+   revision="5083">
+<author>hli61</author>
+<date>2017-02-17T08:15:08.548758Z</date>
+<paths>
+<path
+   kind="dir"
+   action="A">/hli61/Assignment1.1</path>
+<path
+   kind="dir"
+   action="A">/hli61/Assignment1.1/.idea</path>
+<path
+   kind="file"
+   action="A">/hli61/Assignment1.1/.idea/misc.xml</path>
+<path
+   kind="file"
+   action="A">/hli61/Assignment1.1/.idea/modules.xml</path>
+<path
+   kind="file"
+   action="A">/hli61/Assignment1.1/.idea/uiDesigner.xml</path>
+<path
+   kind="file"
+   action="A">/hli61/Assignment1.1/.idea/workspace.xml</path>
+<path
+   kind="file"
+   action="A">/hli61/Assignment1.1/Assignment1.1.iml</path>
+<path
+   kind="file"
+   action="A">/hli61/Assignment1.1/Doxyfile</path>
+<path
+   action="A"
+   kind="file">/hli61/Assignment1.1/doxygen</path>
+<path
+   action="A"
+   kind="dir">/hli61/Assignment1.1/out</path>
+<path
+   kind="dir"
+   action="A">/hli61/Assignment1.1/out/production</path>
+<path
+   kind="dir"
+   action="A">/hli61/Assignment1.1/out/production/Assignment1.1</path>
+<path
+   action="A"
+   kind="dir">/hli61/Assignment1.1/out/production/Assignment1.1/GUI</path>
+<path
+   action="A"
+   kind="file">/hli61/Assignment1.1/out/production/Assignment1.1/GUI/GUI.class</path>
+<path
+   action="A"
+   kind="dir">/hli61/Assignment1.1/out/production/Assignment1.1/main</path>
+<path
+   action="A"
+   kind="file">/hli61/Assignment1.1/out/production/Assignment1.1/main/Bishop.class</path>
+<path
+   action="A"
+   kind="file">/hli61/Assignment1.1/out/production/Assignment1.1/main/ChessBoard.class</path>
+<path
+   action="A"
+   kind="file">/hli61/Assignment1.1/out/production/Assignment1.1/main/King.class</path>
+<path
+   action="A"
+   kind="file">/hli61/Assignment1.1/out/production/Assignment1.1/main/Knight.class</path>
+<path
+   kind="file"
+   action="A">/hli61/Assignment1.1/out/production/Assignment1.1/main/Kning.class</path>
+<path
+   kind="file"
+   action="A">/hli61/Assignment1.1/out/production/Assignment1.1/main/Knook.class</path>
+<path
+   action="A"
+   kind="file">/hli61/Assignment1.1/out/production/Assignment1.1/main/Main.class</path>
+<path
+   kind="file"
+   action="A">/hli61/Assignment1.1/out/production/Assignment1.1/main/Piece.class</path>
+<path
+   kind="file"
+   action="A">/hli61/Assignment1.1/out/production/Assignment1.1/main/Queen.class</path>
+<path
+   kind="file"
+   action="A">/hli61/Assignment1.1/out/production/Assignment1.1/main/Rook.class</path>
+<path
+   kind="file"
+   action="A">/hli61/Assignment1.1/out/production/Assignment1.1/main/Tiles.class</path>
+<path
+   kind="dir"
+   action="A">/hli61/Assignment1.1/src</path>
+<path
+   kind="dir"
+   action="A">/hli61/Assignment1.1/src/GUI</path>
+<path
+   kind="file"
+   action="A">/hli61/Assignment1.1/src/GUI/GUI.java</path>
+<path
+   kind="dir"
+   action="A">/hli61/Assignment1.1/src/main</path>
+<path
+   action="A"
+   kind="file">/hli61/Assignment1.1/src/main/Bishop.java</path>
+<path
+   kind="file"
+   action="A">/hli61/Assignment1.1/src/main/ChessBoard.java</path>
+<path
+   kind="file"
+   action="A">/hli61/Assignment1.1/src/main/King.java</path>
+<path
+   action="A"
+   kind="file">/hli61/Assignment1.1/src/main/Knight.java</path>
+<path
+   action="A"
+   kind="file">/hli61/Assignment1.1/src/main/Kning.java</path>
+<path
+   action="A"
+   kind="file">/hli61/Assignment1.1/src/main/Knook.java</path>
+<path
+   action="A"
+   kind="file">/hli61/Assignment1.1/src/main/Main.java</path>
+<path
+   action="A"
+   kind="file">/hli61/Assignment1.1/src/main/Piece.java</path>
+<path
+   action="A"
+   kind="file">/hli61/Assignment1.1/src/main/Player.java</path>
+<path
+   action="A"
+   kind="file">/hli61/Assignment1.1/src/main/Queen.java</path>
+<path
+   action="A"
+   kind="file">/hli61/Assignment1.1/src/main/Rook.java</path>
+<path
+   action="A"
+   kind="file">/hli61/Assignment1.1/src/main/Tiles.java</path>
+</paths>
+<msg>submitting assignment1.1</msg>
+</logentry>
+<logentry
+   revision="3568">
+<author>hli61</author>
+<date>2017-02-07T08:57:49.934309Z</date>
+<paths>
+<path
+   action="A"
+   kind="file">/hli61/Assignment1.0/.DS_Store</path>
+<path
+   action="A"
+   kind="dir">/hli61/Assignment1.0/.idea</path>
+<path
+   action="A"
+   kind="file">/hli61/Assignment1.0/.idea/.DS_Store</path>
+<path
+   action="A"
+   kind="dir">/hli61/Assignment1.0/.idea/libraries</path>
+<path
+   action="A"
+   kind="file">/hli61/Assignment1.0/.idea/libraries/Arquillian_JUnit_Release.xml</path>
+<path
+   action="A"
+   kind="file">/hli61/Assignment1.0/.idea/misc.xml</path>
+<path
+   kind="file"
+   action="A">/hli61/Assignment1.0/.idea/modules.xml</path>
+<path
+   action="A"
+   kind="file">/hli61/Assignment1.0/.idea/uiDesigner.xml</path>
+<path
+   action="A"
+   kind="file">/hli61/Assignment1.0/.idea/workspace.xml</path>
+<path
+   kind="file"
+   action="A">/hli61/Assignment1.0/Assignment 1.0.iml</path>
+<path
+   kind="dir"
+   action="A">/hli61/Assignment1.0/out</path>
+<path
+   kind="file"
+   action="A">/hli61/Assignment1.0/out/.DS_Store</path>
+<path
+   kind="dir"
+   action="A">/hli61/Assignment1.0/out/production</path>
+<path
+   kind="dir"
+   action="A">/hli61/Assignment1.0/out/production/ChessGame</path>
+<path
+   kind="dir"
+   action="A">/hli61/Assignment1.0/out/production/ChessGame/Main</path>
+<path
+   kind="file"
+   action="A">/hli61/Assignment1.0/out/production/ChessGame/Main/Bishop.class</path>
+<path
+   kind="file"
+   action="A">/hli61/Assignment1.0/out/production/ChessGame/Main/ChessBoard.class</path>
+<path
+   action="A"
+   kind="file">/hli61/Assignment1.0/out/production/ChessGame/Main/King.class</path>
+<path
+   kind="file"
+   action="A">/hli61/Assignment1.0/out/production/ChessGame/Main/Knight.class</path>
+<path
+   action="A"
+   kind="file">/hli61/Assignment1.0/out/production/ChessGame/Main/Piece.class</path>
+<path
+   action="A"
+   kind="file">/hli61/Assignment1.0/out/production/ChessGame/Main/Player.class</path>
+<path
+   action="A"
+   kind="file">/hli61/Assignment1.0/out/production/ChessGame/Main/Queen.class</path>
+<path
+   action="A"
+   kind="file">/hli61/Assignment1.0/out/production/ChessGame/Main/Rook.class</path>
+<path
+   action="A"
+   kind="file">/hli61/Assignment1.0/out/production/ChessGame/Main/Tiles.class</path>
+<path
+   kind="dir"
+   action="A">/hli61/Assignment1.0/out/production/ChessGame/TestCases</path>
+<path
+   kind="file"
+   action="A">/hli61/Assignment1.0/out/production/ChessGame/TestCases/TilesTest.class</path>
+<path
+   action="A"
+   kind="dir">/hli61/Assignment1.0/src</path>
+<path
+   kind="file"
+   action="A">/hli61/Assignment1.0/src/.DS_Store</path>
+<path
+   kind="dir"
+   action="A">/hli61/Assignment1.0/src/Main</path>
+<path
+   kind="file"
+   action="A">/hli61/Assignment1.0/src/Main/Bishop.java</path>
+<path
+   kind="file"
+   action="A">/hli61/Assignment1.0/src/Main/ChessBoard.java</path>
+<path
+   kind="file"
+   action="A">/hli61/Assignment1.0/src/Main/King.java</path>
+<path
+   kind="file"
+   action="A">/hli61/Assignment1.0/src/Main/Knight.java</path>
+<path
+   kind="file"
+   action="A">/hli61/Assignment1.0/src/Main/Piece.java</path>
+<path
+   kind="file"
+   action="A">/hli61/Assignment1.0/src/Main/Player.java</path>
+<path
+   action="A"
+   kind="file">/hli61/Assignment1.0/src/Main/Queen.java</path>
+<path
+   kind="file"
+   action="A">/hli61/Assignment1.0/src/Main/Rook.java</path>
+<path
+   action="A"
+   kind="file">/hli61/Assignment1.0/src/Main/Tiles.java</path>
+<path
+   action="A"
+   kind="dir">/hli61/Assignment1.0/src/TestCases</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="3564">
+<author>hli61</author>
+<date>2017-02-07T08:49:35.129137Z</date>
+<paths>
+<path
+   kind="dir"
+   action="A">/hli61/Assignment1.0</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="2333">
+<author>hli61</author>
+<date>2017-01-31T02:31:30.356580Z</date>
+<paths>
+<path
+   action="M"
+   kind="file">/hli61/Assignment0/HW0/src/lanSimulation/LANSimulation.java</path>
+<path
+   kind="file"
+   action="M">/hli61/Assignment0/HW0/src/lanSimulation/Network.java</path>
+<path
+   action="M"
+   kind="file">/hli61/Assignment0/HW0/src/lanSimulation/internals/Node.java</path>
+<path
+   kind="file"
+   action="M">/hli61/Assignment0/HW0/src/lanSimulation/tests/LANTests.java</path>
+</paths>
+<msg>Changed files</msg>
+</logentry>
+<logentry
+   revision="2332">
+<author>hli61</author>
+<date>2017-01-31T02:29:58.652173Z</date>
+<paths>
+<path
+   kind="dir"
+   action="A">/hli61/Assignment0/SampleCode</path>
+<path
+   kind="file"
+   action="A">/hli61/Assignment0/SampleCode/maze.cpp</path>
+</paths>
+<msg>adding sample code</msg>
+</logentry>
+<logentry
+   revision="2315">
+<author>hli61</author>
+<date>2017-01-31T01:50:18.354151Z</date>
+<paths>
+<path
+   action="A"
+   kind="file">/hli61/Assignment0/HW0/.classpath</path>
+<path
+   action="A"
+   kind="file">/hli61/Assignment0/HW0/.project</path>
+<path
+   action="A"
+   kind="dir">/hli61/Assignment0/HW0/.settings</path>
+<path
+   kind="file"
+   action="A">/hli61/Assignment0/HW0/.settings/org.eclipse.jdt.core.prefs</path>
+<path
+   action="A"
+   kind="file">/hli61/Assignment0/HW0/COPYING</path>
+<path
+   kind="dir"
+   action="A">/hli61/Assignment0/HW0/bin</path>
+<path
+   kind="dir"
+   action="A">/hli61/Assignment0/HW0/doc</path>
+<path
+   kind="file"
+   action="A">/hli61/Assignment0/HW0/doc/LANSimulationDocument.pdf</path>
+<path
+   kind="file"
+   action="A">/hli61/Assignment0/HW0/doc/README</path>
+<path
+   kind="file"
+   action="A">/hli61/Assignment0/HW0/doc/RefactoringAssignment.pdf</path>
+<path
+   kind="file"
+   action="A">/hli61/Assignment0/HW0/doc/toDoList</path>
+<path
+   kind="file"
+   action="A">/hli61/Assignment0/HW0/expectedOutput.txt</path>
+<path
+   kind="file"
+   action="A">/hli61/Assignment0/HW0/javadoc.xml</path>
+<path
+   kind="dir"
+   action="A">/hli61/Assignment0/HW0/src</path>
+<path
+   action="A"
+   kind="dir">/hli61/Assignment0/HW0/src/lanSimulation</path>
+<path
+   kind="file"
+   action="A">/hli61/Assignment0/HW0/src/lanSimulation/LANSimulation.java</path>
+<path
+   action="A"
+   kind="file">/hli61/Assignment0/HW0/src/lanSimulation/Network.java</path>
+<path
+   action="A"
+   kind="dir">/hli61/Assignment0/HW0/src/lanSimulation/internals</path>
+<path
+   action="A"
+   kind="file">/hli61/Assignment0/HW0/src/lanSimulation/internals/Node.java</path>
+<path
+   action="A"
+   kind="file">/hli61/Assignment0/HW0/src/lanSimulation/internals/Packet.java</path>
+<path
+   action="A"
+   kind="dir">/hli61/Assignment0/HW0/src/lanSimulation/tests</path>
+<path
+   action="A"
+   kind="file">/hli61/Assignment0/HW0/src/lanSimulation/tests/LANTests.java</path>
+<path
+   kind="file"
+   action="A">/hli61/Assignment0/HW0/useOutput.txt</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="2314">
+<author>hli61</author>
+<date>2017-01-31T01:50:05.461180Z</date>
+<paths>
+<path
+   action="A"
+   kind="dir">/hli61/Assignment0/HW0</path>
+</paths>
+<msg>Share project "HW0" into "https://subversion.ews.illinois.edu/svn/sp17-cs242/hli61"</msg>
+</logentry>
+<logentry
+   revision="1654">
+<author>hli61</author>
+<date>2017-01-29T22:45:43.156009Z</date>
+<paths>
+<path
+   kind="dir"
+   action="A">/hli61/Assignment0/shopping</path>
+<path
+   kind="file"
+   action="A">/hli61/Assignment0/shopping/list1.txt</path>
+<path
+   kind="file"
+   action="A">/hli61/Assignment0/shopping/list2.txt</path>
+</paths>
+<msg>added shopping files</msg>
+</logentry>
+<logentry
+   revision="1653">
+<author>hli61</author>
+<date>2017-01-29T22:44:51.634727Z</date>
+<paths>
+<path
+   kind="file"
+   action="D">/hli61/Assignment0/list1.txt</path>
+<path
+   kind="file"
+   action="D">/hli61/Assignment0/list2.txt</path>
+</paths>
+<msg>delete</msg>
+</logentry>
+<logentry
+   revision="1639">
+<author>hli61</author>
+<date>2017-01-29T22:34:42.666091Z</date>
+<paths>
+<path
+   kind="dir"
+   action="D">/hli61/shopping</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="1592">
+<author>hli61</author>
+<date>2017-01-29T22:19:30.897618Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/hli61/Assignment0/list1.txt</path>
+<path
+   kind="file"
+   action="A">/hli61/Assignment0/list2.txt</path>
+</paths>
+<msg>Added list1 list2</msg>
+</logentry>
+<logentry
+   revision="1589">
+<author>hli61</author>
+<date>2017-01-29T22:17:35.923199Z</date>
+<paths>
+<path
+   action="D"
+   kind="dir">/hli61/Assignment0/Assignment0</path>
+</paths>
+<msg>delete duplicates files</msg>
+</logentry>
+<logentry
+   revision="1578">
+<author>hli61</author>
+<date>2017-01-29T22:05:45.650498Z</date>
+<paths>
+<path
+   kind="dir"
+   action="A">/hli61/Assignment0</path>
+<path
+   kind="dir"
+   action="A">/hli61/Assignment0/Assignment0</path>
+<path
+   kind="file"
+   action="A">/hli61/Assignment0/Assignment0/list1.txt</path>
+<path
+   kind="file"
+   action="A">/hli61/Assignment0/Assignment0/list2.txt</path>
+</paths>
+<msg>importing assignment0</msg>
+</logentry>
+<logentry
+   revision="1561">
+<author>hli61</author>
+<date>2017-01-29T21:39:28.906225Z</date>
+<paths>
+<path
+   kind="dir"
+   action="D">/hli61/grocery</path>
+<path
+   copyfrom-path="/hli61/grocery"
+   copyfrom-rev="1560"
+   action="A"
+   kind="dir">/hli61/shopping</path>
+</paths>
+<msg>Moved grocery to shopping for clarity</msg>
+</logentry>
+<logentry
+   revision="1555">
+<author>hli61</author>
+<date>2017-01-29T21:34:48.048642Z</date>
+<paths>
+<path
+   kind="file"
+   action="D">/hli61/grocery/list3.txt</path>
+</paths>
+<msg>Discovered that I want to be a vegetarian</msg>
+</logentry>
+<logentry
+   revision="1552">
+<author>hli61</author>
+<date>2017-01-29T21:34:12.380836Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/hli61/grocery/list3.txt</path>
+</paths>
+<msg>Added list of meats</msg>
+</logentry>
+<logentry
+   revision="1550">
+<author>hli61</author>
+<date>2017-01-29T21:31:48.329329Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/hli61/grocery/list2.txt</path>
+</paths>
+<msg>Emphasize importance of carrot</msg>
+</logentry>
+<logentry
+   revision="1545">
+<author>hli61</author>
+<date>2017-01-29T21:24:29.391430Z</date>
+<paths>
+<path
+   action="M"
+   kind="file">/hli61/grocery/list2.txt</path>
+</paths>
+<msg>Put emphasis on carrot</msg>
+</logentry>
+<logentry
+   revision="1544">
+<author>hli61</author>
+<date>2017-01-29T21:23:04.697823Z</date>
+<paths>
+<path
+   action="M"
+   kind="file">/hli61/grocery/list2.txt</path>
+</paths>
+<msg>update</msg>
+</logentry>
+<logentry
+   revision="1538">
+<author>hli61</author>
+<date>2017-01-29T21:18:45.557796Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/hli61/grocery/list2.txt</path>
+</paths>
+<msg>Added less important vegetable</msg>
+</logentry>
+<logentry
+   revision="1533">
+<author>hli61</author>
+<date>2017-01-29T21:11:25.723084Z</date>
+<paths>
+<path
+   kind="file"
+   action="D">/hli61/grocery/newlist1.txt</path>
+<path
+   kind="file"
+   action="D">/hli61/grocery/newlist2.txt</path>
+</paths>
+<msg>update</msg>
+</logentry>
+<logentry
+   revision="1526">
+<author>hli61</author>
+<date>2017-01-29T21:05:08.278177Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/hli61/grocery/newlist1.txt</path>
+<path
+   kind="file"
+   action="A">/hli61/grocery/newlist2.txt</path>
+</paths>
+<msg>importing grocery project</msg>
+</logentry>
+<logentry
+   revision="1489">
+<author>hli61</author>
+<date>2017-01-29T20:37:24.245738Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/hli61/grocery/list2.txt</path>
+</paths>
+<msg>Added more important vegetable</msg>
+</logentry>
+<logentry
+   revision="1480">
+<author>hli61</author>
+<date>2017-01-29T20:13:06.814109Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/hli61/grocery/list2.txt</path>
+</paths>
+<msg>Adding more vegetables</msg>
+</logentry>
+<logentry
+   revision="1478">
+<author>hli61</author>
+<date>2017-01-29T20:11:15.740956Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/hli61/grocery/list1.txt</path>
+</paths>
+<msg>Need to buy more fruit</msg>
+</logentry>
+<logentry
+   revision="1475">
+<author>hli61</author>
+<date>2017-01-29T20:06:26.074272Z</date>
+<paths>
+<path
+   kind="dir"
+   action="A">/hli61/grocery</path>
+<path
+   kind="file"
+   action="A">/hli61/grocery/list1.txt</path>
+<path
+   kind="file"
+   action="A">/hli61/grocery/list2.txt</path>
+</paths>
+<msg>importing grocery project</msg>
+</logentry>
+<logentry
+   revision="69">
+<author>root</author>
+<date>2017-01-24T19:28:03.291725Z</date>
+<paths>
+<path
+   kind="dir"
+   action="A">/hli61</path>
+</paths>
+<msg>created directory hli61</msg>
+</logentry>
+</log>

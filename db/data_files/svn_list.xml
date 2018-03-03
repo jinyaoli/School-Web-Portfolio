@@ -1,0 +1,1250 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lists>
+<list
+   path="https://subversion.ews.illinois.edu/svn/sp17-cs242/hli61">
+<entry
+   kind="dir">
+<name>Assignment0</name>
+<commit
+   revision="2333">
+<author>hli61</author>
+<date>2017-01-31T02:31:30.356580Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0/HW0</name>
+<commit
+   revision="2333">
+<author>hli61</author>
+<date>2017-01-31T02:31:30.356580Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/HW0/.classpath</name>
+<size>307</size>
+<commit
+   revision="2315">
+<author>hli61</author>
+<date>2017-01-31T01:50:18.354151Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/HW0/.project</name>
+<size>362</size>
+<commit
+   revision="2315">
+<author>hli61</author>
+<date>2017-01-31T01:50:18.354151Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0/HW0/.settings</name>
+<commit
+   revision="2315">
+<author>hli61</author>
+<date>2017-01-31T01:50:18.354151Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/HW0/.settings/org.eclipse.jdt.core.prefs</name>
+<size>629</size>
+<commit
+   revision="2315">
+<author>hli61</author>
+<date>2017-01-31T01:50:18.354151Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/HW0/COPYING</name>
+<size>18011</size>
+<commit
+   revision="2315">
+<author>hli61</author>
+<date>2017-01-31T01:50:18.354151Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0/HW0/bin</name>
+<commit
+   revision="2315">
+<author>hli61</author>
+<date>2017-01-31T01:50:18.354151Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0/HW0/doc</name>
+<commit
+   revision="2315">
+<author>hli61</author>
+<date>2017-01-31T01:50:18.354151Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/HW0/doc/LANSimulationDocument.pdf</name>
+<size>36375</size>
+<commit
+   revision="2315">
+<author>hli61</author>
+<date>2017-01-31T01:50:18.354151Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/HW0/doc/README</name>
+<size>1230</size>
+<commit
+   revision="2315">
+<author>hli61</author>
+<date>2017-01-31T01:50:18.354151Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/HW0/doc/RefactoringAssignment.pdf</name>
+<size>139491</size>
+<commit
+   revision="2315">
+<author>hli61</author>
+<date>2017-01-31T01:50:18.354151Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/HW0/doc/toDoList</name>
+<size>1772</size>
+<commit
+   revision="2315">
+<author>hli61</author>
+<date>2017-01-31T01:50:18.354151Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/HW0/expectedOutput.txt</name>
+<size>2980</size>
+<commit
+   revision="2315">
+<author>hli61</author>
+<date>2017-01-31T01:50:18.354151Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/HW0/javadoc.xml</name>
+<size>393</size>
+<commit
+   revision="2315">
+<author>hli61</author>
+<date>2017-01-31T01:50:18.354151Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0/HW0/src</name>
+<commit
+   revision="2333">
+<author>hli61</author>
+<date>2017-01-31T02:31:30.356580Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0/HW0/src/lanSimulation</name>
+<commit
+   revision="2333">
+<author>hli61</author>
+<date>2017-01-31T02:31:30.356580Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/HW0/src/lanSimulation/LANSimulation.java</name>
+<size>6073</size>
+<commit
+   revision="2333">
+<author>hli61</author>
+<date>2017-01-31T02:31:30.356580Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/HW0/src/lanSimulation/Network.java</name>
+<size>8457</size>
+<commit
+   revision="2333">
+<author>hli61</author>
+<date>2017-01-31T02:31:30.356580Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0/HW0/src/lanSimulation/internals</name>
+<commit
+   revision="2333">
+<author>hli61</author>
+<date>2017-01-31T02:31:30.356580Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/HW0/src/lanSimulation/internals/Node.java</name>
+<size>7661</size>
+<commit
+   revision="2333">
+<author>hli61</author>
+<date>2017-01-31T02:31:30.356580Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/HW0/src/lanSimulation/internals/Packet.java</name>
+<size>1828</size>
+<commit
+   revision="2315">
+<author>hli61</author>
+<date>2017-01-31T01:50:18.354151Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0/HW0/src/lanSimulation/tests</name>
+<commit
+   revision="2333">
+<author>hli61</author>
+<date>2017-01-31T02:31:30.356580Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/HW0/src/lanSimulation/tests/LANTests.java</name>
+<size>10578</size>
+<commit
+   revision="2333">
+<author>hli61</author>
+<date>2017-01-31T02:31:30.356580Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/HW0/useOutput.txt</name>
+<size>2980</size>
+<commit
+   revision="2315">
+<author>hli61</author>
+<date>2017-01-31T01:50:18.354151Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0/SampleCode</name>
+<commit
+   revision="2332">
+<author>hli61</author>
+<date>2017-01-31T02:29:58.652173Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/SampleCode/maze.cpp</name>
+<size>6657</size>
+<commit
+   revision="2332">
+<author>hli61</author>
+<date>2017-01-31T02:29:58.652173Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0/shopping</name>
+<commit
+   revision="1654">
+<author>hli61</author>
+<date>2017-01-29T22:45:43.156009Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/shopping/list1.txt</name>
+<size>56</size>
+<commit
+   revision="1654">
+<author>hli61</author>
+<date>2017-01-29T22:45:43.156009Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/shopping/list2.txt</name>
+<size>76</size>
+<commit
+   revision="1654">
+<author>hli61</author>
+<date>2017-01-29T22:45:43.156009Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.0</name>
+<commit
+   revision="3568">
+<author>hli61</author>
+<date>2017-02-07T08:57:49.934309Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/.DS_Store</name>
+<size>6148</size>
+<commit
+   revision="3568">
+<author>hli61</author>
+<date>2017-02-07T08:57:49.934309Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.0/.idea</name>
+<commit
+   revision="3568">
+<author>hli61</author>
+<date>2017-02-07T08:57:49.934309Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/.idea/.DS_Store</name>
+<size>6148</size>
+<commit
+   revision="3568">
+<author>hli61</author>
+<date>2017-02-07T08:57:49.934309Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.0/.idea/libraries</name>
+<commit
+   revision="3568">
+<author>hli61</author>
+<date>2017-02-07T08:57:49.934309Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/.idea/libraries/Arquillian_JUnit_Release.xml</name>
+<size>13244</size>
+<commit
+   revision="3568">
+<author>hli61</author>
+<date>2017-02-07T08:57:49.934309Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/.idea/misc.xml</name>
+<size>2138</size>
+<commit
+   revision="3568">
+<author>hli61</author>
+<date>2017-02-07T08:57:49.934309Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/.idea/modules.xml</name>
+<size>268</size>
+<commit
+   revision="3568">
+<author>hli61</author>
+<date>2017-02-07T08:57:49.934309Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/.idea/uiDesigner.xml</name>
+<size>8792</size>
+<commit
+   revision="3568">
+<author>hli61</author>
+<date>2017-02-07T08:57:49.934309Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/.idea/workspace.xml</name>
+<size>71351</size>
+<commit
+   revision="3568">
+<author>hli61</author>
+<date>2017-02-07T08:57:49.934309Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/Assignment 1.0.iml</name>
+<size>505</size>
+<commit
+   revision="3568">
+<author>hli61</author>
+<date>2017-02-07T08:57:49.934309Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.0/out</name>
+<commit
+   revision="3568">
+<author>hli61</author>
+<date>2017-02-07T08:57:49.934309Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/out/.DS_Store</name>
+<size>6148</size>
+<commit
+   revision="3568">
+<author>hli61</author>
+<date>2017-02-07T08:57:49.934309Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.0/out/production</name>
+<commit
+   revision="3568">
+<author>hli61</author>
+<date>2017-02-07T08:57:49.934309Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.0/out/production/ChessGame</name>
+<commit
+   revision="3568">
+<author>hli61</author>
+<date>2017-02-07T08:57:49.934309Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.0/out/production/ChessGame/Main</name>
+<commit
+   revision="3568">
+<author>hli61</author>
+<date>2017-02-07T08:57:49.934309Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/out/production/ChessGame/Main/Bishop.class</name>
+<size>2657</size>
+<commit
+   revision="3568">
+<author>hli61</author>
+<date>2017-02-07T08:57:49.934309Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/out/production/ChessGame/Main/ChessBoard.class</name>
+<size>1917</size>
+<commit
+   revision="3568">
+<author>hli61</author>
+<date>2017-02-07T08:57:49.934309Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/out/production/ChessGame/Main/King.class</name>
+<size>1610</size>
+<commit
+   revision="3568">
+<author>hli61</author>
+<date>2017-02-07T08:57:49.934309Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/out/production/ChessGame/Main/Knight.class</name>
+<size>1033</size>
+<commit
+   revision="3568">
+<author>hli61</author>
+<date>2017-02-07T08:57:49.934309Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/out/production/ChessGame/Main/Piece.class</name>
+<size>4397</size>
+<commit
+   revision="3568">
+<author>hli61</author>
+<date>2017-02-07T08:57:49.934309Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/out/production/ChessGame/Main/Player.class</name>
+<size>1354</size>
+<commit
+   revision="3568">
+<author>hli61</author>
+<date>2017-02-07T08:57:49.934309Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/out/production/ChessGame/Main/Queen.class</name>
+<size>3537</size>
+<commit
+   revision="3568">
+<author>hli61</author>
+<date>2017-02-07T08:57:49.934309Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/out/production/ChessGame/Main/Rook.class</name>
+<size>2478</size>
+<commit
+   revision="3568">
+<author>hli61</author>
+<date>2017-02-07T08:57:49.934309Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/out/production/ChessGame/Main/Tiles.class</name>
+<size>2531</size>
+<commit
+   revision="3568">
+<author>hli61</author>
+<date>2017-02-07T08:57:49.934309Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.0/out/production/ChessGame/TestCases</name>
+<commit
+   revision="3568">
+<author>hli61</author>
+<date>2017-02-07T08:57:49.934309Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/out/production/ChessGame/TestCases/TilesTest.class</name>
+<size>1847</size>
+<commit
+   revision="3568">
+<author>hli61</author>
+<date>2017-02-07T08:57:49.934309Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.0/src</name>
+<commit
+   revision="3568">
+<author>hli61</author>
+<date>2017-02-07T08:57:49.934309Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/src/.DS_Store</name>
+<size>6148</size>
+<commit
+   revision="3568">
+<author>hli61</author>
+<date>2017-02-07T08:57:49.934309Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.0/src/Main</name>
+<commit
+   revision="3568">
+<author>hli61</author>
+<date>2017-02-07T08:57:49.934309Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/src/Main/Bishop.java</name>
+<size>2993</size>
+<commit
+   revision="3568">
+<author>hli61</author>
+<date>2017-02-07T08:57:49.934309Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/src/Main/ChessBoard.java</name>
+<size>1765</size>
+<commit
+   revision="3568">
+<author>hli61</author>
+<date>2017-02-07T08:57:49.934309Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/src/Main/King.java</name>
+<size>1607</size>
+<commit
+   revision="3568">
+<author>hli61</author>
+<date>2017-02-07T08:57:49.934309Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/src/Main/Knight.java</name>
+<size>1145</size>
+<commit
+   revision="3568">
+<author>hli61</author>
+<date>2017-02-07T08:57:49.934309Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/src/Main/Piece.java</name>
+<size>3953</size>
+<commit
+   revision="3568">
+<author>hli61</author>
+<date>2017-02-07T08:57:49.934309Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/src/Main/Player.java</name>
+<size>1156</size>
+<commit
+   revision="3568">
+<author>hli61</author>
+<date>2017-02-07T08:57:49.934309Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/src/Main/Queen.java</name>
+<size>4228</size>
+<commit
+   revision="3568">
+<author>hli61</author>
+<date>2017-02-07T08:57:49.934309Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/src/Main/Rook.java</name>
+<size>2281</size>
+<commit
+   revision="3568">
+<author>hli61</author>
+<date>2017-02-07T08:57:49.934309Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/src/Main/Tiles.java</name>
+<size>2329</size>
+<commit
+   revision="3568">
+<author>hli61</author>
+<date>2017-02-07T08:57:49.934309Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.0/src/TestCases</name>
+<commit
+   revision="3568">
+<author>hli61</author>
+<date>2017-02-07T08:57:49.934309Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.1</name>
+<commit
+   revision="5083">
+<author>hli61</author>
+<date>2017-02-17T08:15:08.548758Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.1/.idea</name>
+<commit
+   revision="5083">
+<author>hli61</author>
+<date>2017-02-17T08:15:08.548758Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/.idea/misc.xml</name>
+<size>348</size>
+<commit
+   revision="5083">
+<author>hli61</author>
+<date>2017-02-17T08:15:08.548758Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/.idea/modules.xml</name>
+<size>266</size>
+<commit
+   revision="5083">
+<author>hli61</author>
+<date>2017-02-17T08:15:08.548758Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/.idea/uiDesigner.xml</name>
+<size>8792</size>
+<commit
+   revision="5083">
+<author>hli61</author>
+<date>2017-02-17T08:15:08.548758Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/.idea/workspace.xml</name>
+<size>55895</size>
+<commit
+   revision="5083">
+<author>hli61</author>
+<date>2017-02-17T08:15:08.548758Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/Assignment1.1.iml</name>
+<size>423</size>
+<commit
+   revision="5083">
+<author>hli61</author>
+<date>2017-02-17T08:15:08.548758Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/Doxyfile</name>
+<size>77197</size>
+<commit
+   revision="5083">
+<author>hli61</author>
+<date>2017-02-17T08:15:08.548758Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/doxygen</name>
+<size>8250032</size>
+<commit
+   revision="5083">
+<author>hli61</author>
+<date>2017-02-17T08:15:08.548758Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.1/out</name>
+<commit
+   revision="5083">
+<author>hli61</author>
+<date>2017-02-17T08:15:08.548758Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.1/out/production</name>
+<commit
+   revision="5083">
+<author>hli61</author>
+<date>2017-02-17T08:15:08.548758Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.1/out/production/Assignment1.1</name>
+<commit
+   revision="5083">
+<author>hli61</author>
+<date>2017-02-17T08:15:08.548758Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.1/out/production/Assignment1.1/GUI</name>
+<commit
+   revision="5083">
+<author>hli61</author>
+<date>2017-02-17T08:15:08.548758Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/out/production/Assignment1.1/GUI/GUI.class</name>
+<size>2252</size>
+<commit
+   revision="5083">
+<author>hli61</author>
+<date>2017-02-17T08:15:08.548758Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.1/out/production/Assignment1.1/main</name>
+<commit
+   revision="5083">
+<author>hli61</author>
+<date>2017-02-17T08:15:08.548758Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/out/production/Assignment1.1/main/Bishop.class</name>
+<size>2662</size>
+<commit
+   revision="5083">
+<author>hli61</author>
+<date>2017-02-17T08:15:08.548758Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/out/production/Assignment1.1/main/ChessBoard.class</name>
+<size>1917</size>
+<commit
+   revision="5083">
+<author>hli61</author>
+<date>2017-02-17T08:15:08.548758Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/out/production/Assignment1.1/main/King.class</name>
+<size>1754</size>
+<commit
+   revision="5083">
+<author>hli61</author>
+<date>2017-02-17T08:15:08.548758Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/out/production/Assignment1.1/main/Knight.class</name>
+<size>1226</size>
+<commit
+   revision="5083">
+<author>hli61</author>
+<date>2017-02-17T08:15:08.548758Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/out/production/Assignment1.1/main/Kning.class</name>
+<size>1434</size>
+<commit
+   revision="5083">
+<author>hli61</author>
+<date>2017-02-17T08:15:08.548758Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/out/production/Assignment1.1/main/Knook.class</name>
+<size>2757</size>
+<commit
+   revision="5083">
+<author>hli61</author>
+<date>2017-02-17T08:15:08.548758Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/out/production/Assignment1.1/main/Main.class</name>
+<size>456</size>
+<commit
+   revision="5083">
+<author>hli61</author>
+<date>2017-02-17T08:15:08.548758Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/out/production/Assignment1.1/main/Piece.class</name>
+<size>4090</size>
+<commit
+   revision="5083">
+<author>hli61</author>
+<date>2017-02-17T08:15:08.548758Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/out/production/Assignment1.1/main/Queen.class</name>
+<size>3542</size>
+<commit
+   revision="5083">
+<author>hli61</author>
+<date>2017-02-17T08:15:08.548758Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/out/production/Assignment1.1/main/Rook.class</name>
+<size>2483</size>
+<commit
+   revision="5083">
+<author>hli61</author>
+<date>2017-02-17T08:15:08.548758Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/out/production/Assignment1.1/main/Tiles.class</name>
+<size>2134</size>
+<commit
+   revision="5083">
+<author>hli61</author>
+<date>2017-02-17T08:15:08.548758Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.1/src</name>
+<commit
+   revision="5083">
+<author>hli61</author>
+<date>2017-02-17T08:15:08.548758Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.1/src/GUI</name>
+<commit
+   revision="5083">
+<author>hli61</author>
+<date>2017-02-17T08:15:08.548758Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/GUI/GUI.java</name>
+<size>1755</size>
+<commit
+   revision="5083">
+<author>hli61</author>
+<date>2017-02-17T08:15:08.548758Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.1/src/main</name>
+<commit
+   revision="5083">
+<author>hli61</author>
+<date>2017-02-17T08:15:08.548758Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/main/Bishop.java</name>
+<size>5190</size>
+<commit
+   revision="5083">
+<author>hli61</author>
+<date>2017-02-17T08:15:08.548758Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/main/ChessBoard.java</name>
+<size>2664</size>
+<commit
+   revision="5083">
+<author>hli61</author>
+<date>2017-02-17T08:15:08.548758Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/main/King.java</name>
+<size>2004</size>
+<commit
+   revision="5083">
+<author>hli61</author>
+<date>2017-02-17T08:15:08.548758Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/main/Knight.java</name>
+<size>1396</size>
+<commit
+   revision="5083">
+<author>hli61</author>
+<date>2017-02-17T08:15:08.548758Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/main/Kning.java</name>
+<size>1976</size>
+<commit
+   revision="5083">
+<author>hli61</author>
+<date>2017-02-17T08:15:08.548758Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/main/Knook.java</name>
+<size>4824</size>
+<commit
+   revision="5083">
+<author>hli61</author>
+<date>2017-02-17T08:15:08.548758Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/main/Main.java</name>
+<size>209</size>
+<commit
+   revision="5083">
+<author>hli61</author>
+<date>2017-02-17T08:15:08.548758Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/main/Piece.java</name>
+<size>5586</size>
+<commit
+   revision="5083">
+<author>hli61</author>
+<date>2017-02-17T08:15:08.548758Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/main/Player.java</name>
+<size>1425</size>
+<commit
+   revision="5083">
+<author>hli61</author>
+<date>2017-02-17T08:15:08.548758Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/main/Queen.java</name>
+<size>7567</size>
+<commit
+   revision="5083">
+<author>hli61</author>
+<date>2017-02-17T08:15:08.548758Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/main/Rook.java</name>
+<size>4255</size>
+<commit
+   revision="5083">
+<author>hli61</author>
+<date>2017-02-17T08:15:08.548758Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/main/Tiles.java</name>
+<size>3482</size>
+<commit
+   revision="5083">
+<author>hli61</author>
+<date>2017-02-17T08:15:08.548758Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment2.0</name>
+<commit
+   revision="6548">
+<author>hli61</author>
+<date>2017-03-07T14:52:27.919961Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.0/.project</name>
+<size>367</size>
+<commit
+   revision="6548">
+<author>hli61</author>
+<date>2017-03-07T14:52:27.919961Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.0/.pydevproject</name>
+<size>580</size>
+<commit
+   revision="5933">
+<author>hli61</author>
+<date>2017-02-28T13:05:17.459916Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment2.0/webscraper</name>
+<commit
+   revision="6548">
+<author>hli61</author>
+<date>2017-03-07T14:52:27.919961Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.0/webscraper/__init__.py</name>
+<size>3622</size>
+<commit
+   revision="5933">
+<author>hli61</author>
+<date>2017-02-28T13:05:17.459916Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.0/webscraper/data.txt</name>
+<size>5354</size>
+<commit
+   revision="5933">
+<author>hli61</author>
+<date>2017-02-28T13:05:17.459916Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.0/webscraper/data].txt</name>
+<size>5354</size>
+<commit
+   revision="6548">
+<author>hli61</author>
+<date>2017-03-07T14:52:27.919961Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.0/webscraper/example.log</name>
+<size>10393</size>
+<commit
+   revision="5933">
+<author>hli61</author>
+<date>2017-02-28T13:05:17.459916Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment2.1</name>
+<commit
+   revision="6550">
+<author>hli61</author>
+<date>2017-03-07T14:57:02.732536Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/.project</name>
+<size>367</size>
+<commit
+   revision="6550">
+<author>hli61</author>
+<date>2017-03-07T14:57:02.732536Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/.pydevproject</name>
+<size>423</size>
+<commit
+   revision="6550">
+<author>hli61</author>
+<date>2017-03-07T14:57:02.732536Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment2.1/webscraper</name>
+<commit
+   revision="6550">
+<author>hli61</author>
+<date>2017-03-07T14:57:02.732536Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/webscraper/__init__.py</name>
+<size>3622</size>
+<commit
+   revision="6550">
+<author>hli61</author>
+<date>2017-03-07T14:57:02.732536Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/webscraper/data.txt</name>
+<size>5354</size>
+<commit
+   revision="6550">
+<author>hli61</author>
+<date>2017-03-07T14:57:02.732536Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/webscraper/data].txt</name>
+<size>5354</size>
+<commit
+   revision="6550">
+<author>hli61</author>
+<date>2017-03-07T14:57:02.732536Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/webscraper/example.log</name>
+<size>10393</size>
+<commit
+   revision="6550">
+<author>hli61</author>
+<date>2017-03-07T14:57:02.732536Z</date>
+</commit>
+</entry>
+</list>
+</lists>

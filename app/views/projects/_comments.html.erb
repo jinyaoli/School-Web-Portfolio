@@ -1,0 +1,30 @@
+<div>
+
+	<% comments.each do |comment| %>
+
+		<%= render "projects/comment", comment: comment %>
+
+		<div style="margin-left: 60px;">
+			<% comment.sub_comments.each do |subcomment| %>
+				<%= render "projects/comment", comment: subcomment %>	
+				<div style="margin-left: 120px;">
+					<% subcomment.sub_comments.each do |subsubcomment| %>
+						<%= render "projects/comment" , comment: subsubcomment %>
+
+						<div style="margin-left: 180px">
+							<% subsubcomment.sub_comments.each do |subsubsubcomment| %>
+								<%= render "projects/comment", comment: subsubsubcomment %>
+							<% end %>
+							<%= render "projects/subcommentform", comment: subsubcomment %>
+						</div>
+					<% end %>
+					<%= render "projects/subcommentform", comment: subcomment %>	
+				</div>
+			<% end %>
+			<%= render "projects/subcommentform", comment: comment %>
+		</div>
+	<% end %>
+
+	<%= render "projects/commentform" %>
+
+</div>
